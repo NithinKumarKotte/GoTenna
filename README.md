@@ -9,6 +9,6 @@ To render Maps I have used MapBox Android SDK. The architecture used is MVVM wit
 to render right information
 1) Splash Screen.
 2) List Page (Activity) - To display place details in Card view format
-3) Map Page (Activity) -  To displau Map view.
+3) Map Page (Activity) -  To display Map view.
 
 I started working on Wednesday Evening and wrapped it up by Sunday.
