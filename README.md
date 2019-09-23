@@ -11,4 +11,4 @@ to render right information
 2) List Page (Activity) - To display place details in Card view format
 3) Map Page (Activity) -  To display Map view.
 
-I started working on Wednesday Evening and wrapped it up by Sunday.
+I started working on Wednesday evening and wrapped it up by Sunday.
